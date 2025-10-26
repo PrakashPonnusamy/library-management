@@ -31,6 +31,10 @@ http://localhost:8086/api/libraries/Central Library/aisles
 PUT - update library information
 http://localhost:8086/api/libraries/1
 
+Swagger UI :
+
+http://localhost:8086/swagger-ui/index.html
+
 
 
 
